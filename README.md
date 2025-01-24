@@ -2,12 +2,6 @@
 
 ARES is an Agent-Based Model (ABM) simulation engine developed as a project for the Object-Oriented Programming course at the University of Bologna.
 
-## Authors
-
-- Leonardo Naddei
-- Domeniconi Lorenzo
-- Abou El Kheir Uhalid
-- Di Varano Lorenzo
 
 ## Project Summary
 
